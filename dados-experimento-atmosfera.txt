@@ -1,0 +1,461 @@
+Altitude Aprox = 449.95 m
+
+Temperatura = 25.18 *C
+Pressão = 96048.78 Pa
+Altitude Aprox = 448.85 m
+
+Temperatura = 25.21 *C
+Pressão = 96062.25 Pa
+Altitude Aprox = 447.68 m
+
+Temperatura = 25.26 *C
+Pressão = 96082.77 Pa
+Altitude Aprox = 445.89 m
+
+Temperatura = 25.30 *C
+Pressão = 96097.19 Pa
+Altitude Aprox = 444.64 m
+
+Temperatura = 25.33 *C
+Pressão = 96110.73 Pa
+Altitude Aprox = 443.46 m
+
+Altitude Aprox = 433.89 m
+
+Temperatura = 25.63 *C
+Pressão = 96232.16 Pa
+Altitude Aprox = 432.92 m
+
+Temperatura = 25.67 *C
+Pressão = 96249.37 Pa
+Altitude Aprox = 431.42 m
+
+Temperatura = 25.70 *C
+Pressão = 96267.46 Pa
+Altitude Aprox = 429.85 m
+
+Temperatura = 25.73 *C
+Pressão = 96282.78 Pa
+Altitude Aprox = 428.52 m
+
+Temperatura = 25.76 *C
+Pressão = 96298.76 Pa
+Altitude Aprox = 427.13 m
+
+Temperatura = 25.79 *C
+Pressão = 96308.28 Pa
+Altitude Aprox = 426.31 m
+
+Temperatura = 25.83 *C
+Pressão = 96324.77 Pa
+Altitude Aprox = 433.89 m
+
+Temperatura = 25.63 *C
+Pressão = 96232.16 Pa
+Altitude Aprox = 432.92 m
+
+Temperatura = 25.67 *C
+Pressão = 96249.37 Pa
+Altitude Aprox = 431.42 m
+
+Temperatura = 25.70 *C
+Pressão = 96267.46 Pa
+Altitude Aprox = 429.85 m
+
+Temperatura = 25.73 *C
+Pressão = 96282.78 Pa
+Altitude Aprox = 428.52 m
+
+Temperatura = 25.76 *C
+Pressão = 96298.76 Pa
+Altitude Aprox = 427.13 m
+
+Temperatura = 25.79 *C
+Pressão = 96308.28 Pa
+Altitude Aprox = 426.31 m
+
+Temperatura = 25.83 *C
+Pressão = 96324.77 Pa
+Altitude Aprox = 390.41 m
+
+Temperatura = 26.76 *C
+Pressão = 96735.58 Pa
+Altitude Aprox = 389.31 m
+
+Temperatura = 26.79 *C
+Pressão = 96749.86 Pa
+Altitude Aprox = 388.07 m
+
+Temperatura = 26.83 *C
+Pressão = 96763.29 Pa
+Altitude Aprox = 386.91 m
+
+Temperatura = 26.87 *C
+Pressão = 96780.39 Pa
+Altitude Aprox = 385.43 m
+
+Temperatura = 26.90 *C
+Pressão = 96793.75 Pa
+Altitude Aprox = 384.28 m
+
+Temperatura = 26.93 *C
+Pressão = 96802.84 Pa
+Altitude Aprox = 383.49 m
+
+Temperatura = 26.96 *C
+Pressão = 96823.71 Pa
+Altitude Aprox = 381.69 m
+Altitude Aprox = 371.16 m
+
+Temperatura = 27.26 *C
+Pressão = 96958.42 Pa
+Altitude Aprox = 370.06 m
+
+Temperatura = 27.30 *C
+Pressão = 96975.75 Pa
+Altitude Aprox = 368.57 m
+
+Temperatura = 27.34 *C
+Pressão = 96988.38 Pa
+Altitude Aprox = 367.48 m
+
+Temperatura = 27.36 *C
+Pressão = 97003.76 Pa
+Altitude Aprox = 366.15 m
+
+Temperatura = 27.41 *C
+Pressão = 97021.22 Pa
+Altitude Aprox = 364.64 m
+
+Temperatura = 27.45 *C
+Pressão = 97034.75 Pa
+Altitude Aprox = 363.48 m
+
+Temperatura = 27.49 *C
+Pressão = 97047.74 Pa
+Altitude Aprox = 362.36 m
+Altitude Aprox = 347.93 m
+
+Temperatura = 27.93 *C
+Pressão = 97226.37 Pa
+Altitude Aprox = 346.97 m
+
+Temperatura = 27.97 *C
+Pressão = 97243.53 Pa
+Altitude Aprox = 345.49 m
+
+Temperatura = 28.01 *C
+Pressão = 97258.61 Pa
+Altitude Aprox = 344.04 m
+
+Temperatura = 28.05 *C
+Pressão = 97276.75 Pa
+Altitude Aprox = 342.63 m
+
+Temperatura = 28.09 *C
+Pressão = 97292.66 Pa
+Altitude Aprox = 341.26 m
+
+Temperatura = 28.13 *C
+Pressão = 97306.02 Pa
+Altitude Aprox = 340.11 m
+
+Temperatura = 28.16 *C
+Pressão = 97323.64 Pa
+Altitude Aprox = 319.73 m
+
+Temperatura = 28.65 *C
+Pressão = 97556.75 Pa
+Altitude Aprox = 318.57 m
+
+Temperatura = 28.69 *C
+Pressão = 97572.50 Pa
+Altitude Aprox = 317.22 m
+
+Temperatura = 28.72 *C
+Pressão = 97586.88 Pa
+Altitude Aprox = 315.98 m
+
+Temperatura = 28.76 *C
+Pressão = 97604.53 Pa
+Altitude Aprox = 314.46 m
+
+Temperatura = 28.79 *C
+Pressão = 97620.39 Pa
+Altitude Aprox = 313.10 m
+
+Temperatura = 28.83 *C
+Pressão = 97634.99 Pa
+Altitude Aprox = 311.85 m
+
+Temperatura = 28.86 *C
+Pressão = 97652.75 Pa
+Altitude Aprox = 310.33 m
+Altitude Aprox = 286.80 m
+
+Temperatura = 29.53 *C
+Pressão = 97940.89 Pa
+Altitude Aprox = 285.64 m
+
+Temperatura = 29.57 *C
+Pressão = 97958.75 Pa
+Altitude Aprox = 284.11 m
+
+Temperatura = 29.61 *C
+Pressão = 97973.46 Pa
+Altitude Aprox = 282.85 m
+
+Temperatura = 29.66 *C
+Pressão = 97991.16 Pa
+Altitude Aprox = 281.34 m
+
+Temperatura = 29.69 *C
+Pressão = 98007.78 Pa
+Altitude Aprox = 279.92 m
+
+Temperatura = 29.72 *C
+Pressão = 98024.31 Pa
+Altitude Aprox = 278.50 m
+
+Temperatura = 29.76 *C
+Pressão = 98038.86 Pa
+Altitude Aprox = 277.26 m
+Altitude Aprox = 212.11 m
+
+Temperatura = 31.40 *C
+Pressão = 98824.21 Pa
+Altitude Aprox = 210.32 m
+
+Temperatura = 31.44 *C
+Pressão = 98840.96 Pa
+Altitude Aprox = 208.90 m
+
+Temperatura = 31.48 *C
+Pressão = 98863.47 Pa
+Altitude Aprox = 206.99 m
+
+Temperatura = 31.51 *C
+Pressão = 98883.97 Pa
+Altitude Aprox = 205.25 m
+
+Temperatura = 31.55 *C
+Pressão = 98904.83 Pa
+Altitude Aprox = 203.47 m
+
+Temperatura = 31.58 *C
+Pressão = 98924.00 Pa
+Altitude Aprox = 201.85 m
+
+Temperatura = 31.61 *C
+Pressão = 98943.65 Pa
+Altitude Aprox = 200.18 m
+Altitude Aprox = 114.10 m
+
+Temperatura = 33.65 *C
+Pressão = 99986.41 Pa
+Altitude Aprox = 112.05 m
+
+Temperatura = 33.69 *C
+Pressão = 100003.10 Pa
+Altitude Aprox = 110.65 m
+
+Temperatura = 33.73 *C
+Pressão = 100026.13 Pa
+Altitude Aprox = 108.71 m
+
+Temperatura = 33.77 *C
+Pressão = 100044.00 Pa
+Altitude Aprox = 107.20 m
+
+Temperatura = 33.80 *C
+Pressão = 100065.90 Pa
+Altitude Aprox = 105.36 m
+
+Temperatura = 33.84 *C
+Pressão = 100090.14 Pa
+Altitude Aprox = 103.32 m
+
+Temperatura = 33.88 *C
+Pressão = 100106.03 Pa
+Altitude Aprox = 101.99 m
+Altitude Aprox = -13.11 m
+
+Temperatura = 36.67 *C
+Pressão = 101500.23 Pa
+Altitude Aprox = -14.58 m
+
+Temperatura = 36.71 *C
+Pressão = 101516.64 Pa
+Altitude Aprox = -15.94 m
+
+Temperatura = 36.76 *C
+Pressão = 101534.78 Pa
+Altitude Aprox = -17.45 m
+
+Temperatura = 36.81 *C
+Pressão = 101561.17 Pa
+Altitude Aprox = -19.65 m
+
+Temperatura = 36.85 *C
+Pressão = 101583.67 Pa
+Altitude Aprox = -21.44 m
+
+Temperatura = 36.89 *C
+Pressão = 101602.66 Pa
+Altitude Aprox = -23.09 m
+
+Temperatura = 36.94 *C
+Pressão = 101622.22 Pa
+Altitude Aprox = -24.72 m
+
+Altitude Aprox = -192.51 m
+
+Temperatura = 40.68 *C
+Pressão = 103683.52 Pa
+Altitude Aprox = -194.54 m
+
+Temperatura = 40.72 *C
+Pressão = 103712.24 Pa
+Altitude Aprox = -196.89 m
+
+Temperatura = 40.77 *C
+Pressão = 103739.41 Pa
+Altitude Aprox = -199.11 m
+
+Temperatura = 40.82 *C
+Pressão = 103766.85 Pa
+Altitude Aprox = -201.35 m
+
+Temperatura = 40.86 *C
+Pressão = 103791.03 Pa
+Altitude Aprox = -203.32 m
+
+Temperatura = 40.91 *C
+Pressão = 103814.99 Pa
+Altitude Aprox = -205.28 m
+
+Temperatura = 40.96 *C
+Pressão = 103842.64 Pa
+Altitude Aprox = -207.53 m
+
+Altitude Aprox = -391.13 m
+
+Temperatura = 44.73 *C
+Pressão = 106132.71 Pa
+Altitude Aprox = -392.80 m
+
+Temperatura = 44.77 *C
+Pressão = 106157.11 Pa
+Altitude Aprox = -394.76 m
+
+Temperatura = 44.82 *C
+Pressão = 106178.75 Pa
+Altitude Aprox = -396.49 m
+
+Temperatura = 44.86 *C
+Pressão = 106196.74 Pa
+Altitude Aprox = -397.93 m
+
+Temperatura = 44.90 *C
+Pressão = 106217.53 Pa
+Altitude Aprox = -399.60 m
+
+Temperatura = 44.94 *C
+Pressão = 106238.33 Pa
+Altitude Aprox = -401.27 m
+
+Temperatura = 44.98 *C
+Pressão = 106258.41 Pa
+Altitude Aprox = -402.88 m
+Altitude Aprox = -550.27 m
+
+Temperatura = 48.34 *C
+Pressão = 108132.50 Pa
+Altitude Aprox = -551.95 m
+
+Temperatura = 48.39 *C
+Pressão = 108158.42 Pa
+Altitude Aprox = -554.00 m
+
+Temperatura = 48.42 *C
+Pressão = 108181.34 Pa
+Altitude Aprox = -555.81 m
+
+Temperatura = 48.46 *C
+Pressão = 108206.79 Pa
+Altitude Aprox = -557.82 m
+
+Temperatura = 48.50 *C
+Pressão = 108230.25 Pa
+Altitude Aprox = -559.67 m
+
+Temperatura = 48.54 *C
+Pressão = 108251.42 Pa
+Altitude Aprox = -561.34 m
+
+Temperatura = 48.59 *C
+Pressão = 108274.26 Pa
+Altitude Aprox = -563.14 m
+
+Altitude Aprox = -775.82 m
+
+Temperatura = 60.24 *C
+Pressão = 111004.04 Pa
+Altitude Aprox = -776.37 m
+
+Temperatura = 60.30 *C
+Pressão = 111019.50 Pa
+Altitude Aprox = -777.56 m
+
+Temperatura = 60.33 *C
+Pressão = 111030.10 Pa
+Altitude Aprox = -778.38 m
+
+Temperatura = 60.39 *C
+Pressão = 111048.72 Pa
+Altitude Aprox = -779.82 m
+
+Temperatura = 60.44 *C
+Pressão = 111067.24 Pa
+Altitude Aprox = -781.25 m
+
+Temperatura = 60.48 *C
+Pressão = 111086.05 Pa
+Altitude Aprox = -782.70 m
+
+Temperatura = 60.53 *C
+Pressão = 111104.25 Pa
+Altitude Aprox = -784.11 m
+
+Altitude Aprox = -802.33 m
+
+Temperatura = 61.77 *C
+Pressão = 111360.42 Pa
+Altitude Aprox = -803.89 m
+
+Temperatura = 61.81 *C
+Pressão = 111382.14 Pa
+Altitude Aprox = -805.57 m
+
+Temperatura = 61.86 *C
+Pressão = 111395.99 Pa
+Altitude Aprox = -806.63 m
+
+Temperatura = 61.91 *C
+Pressão = 111405.72 Pa
+Altitude Aprox = -807.38 m
+
+Temperatura = 61.95 *C
+Pressão = 111430.27 Pa
+Altitude Aprox = -809.28 m
+
+Temperatura = 61.99 *C
+Pressão = 111450.78 Pa
+Altitude Aprox = -810.86 m
+
+Temperatura = 62.04 *C
+Pressão = 111459.93 Pa
+Altitude Aprox = -811.56 m
+
+
+
